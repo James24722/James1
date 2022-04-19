@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(101, 255, 209);
+  margin-top:100px;
+  margin-bottom:100px;
+  margin-right:50px;
+  margin-left:50px;
+  font-family:'Courier New', Courier, monospace, Helvetica, sans-serif;
+  text-indent : length
+}
