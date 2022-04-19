@@ -1,3 +1,5 @@
+//James
+
 function myFunction() {
       var x = document.getElementById("myText").value;//Gets the shuz of the text
       document.getElementById("demo").innerHTML =("welcome   "+ x+"  !");
